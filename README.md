@@ -1,8 +1,10 @@
 📌 Title:
 RGB Channel Visualization and Splitting Using OpenCV and Matplotlib
 
+
 📝 Description:
 This  demonstrates how to load, process, and visualize an image using Python libraries such as OpenCV and Matplotlib. The primary goal is to decompose a color image into its individual RGB (Red, Green, Blue) channels and visualize each component to understand the role of color separation in digital image processing.
+
 
 
 🎯 Responsibilities:
