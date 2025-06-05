@@ -28,3 +28,5 @@ This  demonstrates how to load, process, and visualize an image using Python lib
 This  is a hands-on introduction to digital image processing with Python. It allows learners or developers to explore how images are structured in matrices, how individual color channels contribute to the final image, and how to visualize and manipulate them. It serves as a foundational block for more advanced computer vision projects like filtering, segmentation, or object detection.
 
 
+
+
