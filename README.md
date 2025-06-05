@@ -6,27 +6,18 @@ This  demonstrates how to load, process, and visualize an image using Python lib
 
 
 🎯 Responsibilities:
-
 * Load and display an image using OpenCV in Google Colab.
-
 * Understand the structure of an image as a 3D NumPy array.
-
 * Split the image into individual color channels (R, G, B).
-
 * Visualize each color channel separately using different color maps in Matplotlib.
-
 * Understand the impact of each channel on the overall image composition.
   
   
 
 📖 Key Concepts Demonstrated:
-
 * Image matrices and RGB channels.
-
 * Image processing using OpenCV.
-
 * Visualization using Matplotlib colormaps.
-
 * Working in a Colab environment for image analysis.
   
   
